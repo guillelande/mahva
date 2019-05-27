@@ -1,0 +1,16 @@
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\Mavha.TodoList.BussinessLayer.dll
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\Mavha.TodoList.BussinessLayer.pdb
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\EntityFramework.dll
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\EntityFramework.SqlServer.dll
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\Mavha.TodoList.DAL.dll
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\Mavha.TodoList.DAL.pdb
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\Mavha.TodoList.DAL.dll.config
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\EntityFramework.xml
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\EntityFramework.SqlServer.xml
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\obj\Release\BussinessLayer.csprojAssemblyReference.cache
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\obj\Release\BussinessLayer.csproj.CoreCompileInputs.cache
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\obj\Release\BussinessLayer.csproj.CopyComplete
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\obj\Release\Mavha.TodoList.BussinessLayer.dll
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\obj\Release\Mavha.TodoList.BussinessLayer.pdb
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\Newtonsoft.Json.dll
+F:\Mis Webs\Mavha\TodoList\BussinessLayer\bin\Release\Newtonsoft.Json.xml
